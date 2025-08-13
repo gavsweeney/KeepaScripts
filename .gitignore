@@ -1,0 +1,5 @@
+.venv
+__pycache__/
+*.pyc
+.env
+gb_sellers_in_de.csv
